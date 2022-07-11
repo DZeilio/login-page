@@ -1,0 +1,35 @@
+* {
+    margin: 0rem;
+    padding: 0rem;
+}
+
+fieldset {
+    border: 0 none;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+legend {
+    padding-bottom: 0.4rem;
+}
+
+label {
+    display: block;
+    padding-top: 0.1rem;
+    text-align: center;
+}
+
+.content {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.create_account_form {
+    border-style: solid;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
